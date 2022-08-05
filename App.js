@@ -17,7 +17,7 @@ const App = () => {
     },
     {
       id: 3,
-      text: '일정 관리 앱 만들어 보기',
+      text: '일정 관리 앱v1.0 ',
       checked: false,
     },
   ]);
